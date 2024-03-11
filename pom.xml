@@ -15,6 +15,7 @@
         <spring.radis.version>3.0.1</spring.radis.version>
     </properties>
 
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
